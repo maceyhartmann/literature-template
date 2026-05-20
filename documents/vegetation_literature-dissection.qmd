@@ -29,12 +29,16 @@ As a group:
 
 | Photo point number | Date of photo    | Season           | Direction of photo | Link to photo    |
 |:-------------------|:-----------------|:-----------------|:-------------------|:-----------------|
-| 18 | April2026 | insert text here | N | insert text here |
-| 18 | October2025 | insert text here | N | insert text here |
-| 20 | April2026 | insert text here | NW | insert text here |
-| 20 | October2025 | insert text here | NW | insert text here |
-| 42 | April2026 | insert text here | S | insert text here |
-| 42 | October2025 | insert text here | S | insert text here |
+| 18 | April2026 | Spring, peak of water year | N | https://ucsb.app.box.com/s/5dzi3rytq5ojj1a6x2935eyyj1iz840r/file/2221066345219 |
+| 18 | October2025 | Fall, start of water year | N | https://ucsb.app.box.com/s/5dzi3rytq5ojj1a6x2935eyyj1iz840r/file/2055742427271 |
+| 18 | April2025 | Spring, peak of water year | N | https://ucsb.app.box.com/s/5dzi3rytq5ojj1a6x2935eyyj1iz840r/file/2055660803823 |
+| 20 | April2026:  | Spring, peak of water year | NW | https://ucsb.app.box.com/s/9nx49tb19mqq90ng9wbnprvuexma8ydg/file/2221065222969 |
+| 20 | October2025 | Fall, start of water year | NW | https://ucsb.app.box.com/s/9nx49tb19mqq90ng9wbnprvuexma8ydg/file/2055750479021 |
+| 20 | April2025 | Spring, peak of water year | NW | https://ucsb.app.box.com/s/9nx49tb19mqq90ng9wbnprvuexma8ydg/file/2055668119146 |
+| 42 | April2026 | Spring, peak of water year | S | https://ucsb.app.box.com/s/l1n165rti3jgivcmwjl499px0hsy93jx/file/2221070190813 |
+| 42 | October2025 | Fall, start of water year | S | https://ucsb.app.box.com/s/l1n165rti3jgivcmwjl499px0hsy93jx/file/2055757539636 |
+| 42 | April2025 | Spring, peak of water year | S | https://ucsb.app.box.com/s/l1n165rti3jgivcmwjl499px0hsy93jx/file/2055757539636 |
+
 
 8.  Describe in 5-7 sentences total:
 
