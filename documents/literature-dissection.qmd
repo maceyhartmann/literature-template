@@ -27,17 +27,17 @@ As a group:
 
 ## Table
 
-| Photo point number | Date of photo    | Season           | Direction of photo | Link to photo    |
-|:-------------------|:-----------------|:-----------------|:-------------------|:-----------------|
-| 18 | April2026 | Spring, peak of water year | N | https://ucsb.app.box.com/s/5dzi3rytq5ojj1a6x2935eyyj1iz840r/file/2221066345219 |
-| 18 | October2025 | Fall, start of water year | N | https://ucsb.app.box.com/s/5dzi3rytq5ojj1a6x2935eyyj1iz840r/file/2055742427271 |
-| 18 | April2025 | Spring, peak of water year | N | https://ucsb.app.box.com/s/5dzi3rytq5ojj1a6x2935eyyj1iz840r/file/2055660803823 |
-| 20 | April2026:  | Spring, peak of water year | NW | https://ucsb.app.box.com/s/9nx49tb19mqq90ng9wbnprvuexma8ydg/file/2221065222969 |
-| 20 | October2025 | Fall, start of water year | NW | https://ucsb.app.box.com/s/9nx49tb19mqq90ng9wbnprvuexma8ydg/file/2055750479021 |
-| 20 | April2025 | Spring, peak of water year | NW | https://ucsb.app.box.com/s/9nx49tb19mqq90ng9wbnprvuexma8ydg/file/2055668119146 |
-| 42 | April2026 | Spring, peak of water year | S | https://ucsb.app.box.com/s/l1n165rti3jgivcmwjl499px0hsy93jx/file/2221070190813 |
-| 42 | October2025 | Fall, start of water year | S | https://ucsb.app.box.com/s/l1n165rti3jgivcmwjl499px0hsy93jx/file/2055757539636 |
-| 42 | April2025 | Spring, peak of water year | S | https://ucsb.app.box.com/s/l1n165rti3jgivcmwjl499px0hsy93jx/file/2055757539636 |
+| Photo point number | Date of photo | Season | Direction of photo | Link to photo |
+|:-------------------|:--------------|:-------|:-------------------|:--------------|
+| 18 | April 2026 | Spring | N | [Photo 18 April 2026](https://ucsb.app.box.com/s/5dzi3rytq5ojj1a6x2935eyyj1iz840r/file/2221066345219) |
+| 18 | October 2025 | Fall | N | [Photo 18 October 2025](https://ucsb.app.box.com/s/5dzi3rytq5ojj1a6x2935eyyj1iz840r/file/2055742427271) |
+| 18 | April 2025 | Spring | N | [Photo 18 April 2025](https://ucsb.app.box.com/s/5dzi3rytq5ojj1a6x2935eyyj1iz840r/file/2055660803823) |
+| 20 | April 2026 | Spring | NW | [Photo 20 April 2026](https://ucsb.app.box.com/s/9nx49tb19mqq90ng9wbnprvuexma8ydg/file/2221065222969) |
+| 20 | October 2025 | Fall | NW | [Photo 20 October 2025](https://ucsb.app.box.com/s/9nx49tb19mqq90ng9wbnprvuexma8ydg/file/2055750479021) |
+| 20 | April 2025 | Spring | NW | [Photo 20 April 2025](https://ucsb.app.box.com/s/9nx49tb19mqq90ng9wbnprvuexma8ydg/file/2055668119146) |
+| 42 | April 2026 | Spring | S | [Photo 42 April 2026](https://ucsb.app.box.com/s/l1n165rti3jgivcmwjl499px0hsy93jx/file/2221070190813) |
+| 42 | October 2025 | Fall | S | [Photo 42 October 2025](https://ucsb.app.box.com/s/l1n165rti3jgivcmwjl499px0hsy93jx/file/2055757539636) |
+| 42 | April 2025 | Spring | S | [Photo 42 April 2025](https://ucsb.app.box.com/s/l1n165rti3jgivcmwjl499px0hsy93jx/file/2055757539636) |
 
 
 8.  Describe in 5-7 sentences total:
@@ -47,6 +47,8 @@ As a group:
 -   which photo point you chose to examine
 -   how that photo point is relevant to your study
 -   what changes you see in vegetation, animals, environmental characteristics from the photos you chose.
+
+We chose to examine water year 2026 because it overlaps with the most recent vegetation monitoring period and helps us visually compare seasonal changes in salt marsh and brackish marsh vegetation at NCOS. This water year is relevant to our study because our project focuses on how salt marsh vegetation cover and plant community identity change across survey years, and the photo documentation gives us a visual reference for interpreting those patterns. We focused on photo points 18, 20, and 42 because together they show different views of the marsh plain, creek edge, riverbank, and surrounding salt marsh vegetation. Photo point 18 provides a broad view of the flat salt marsh vegetation, including sandy patches and a creek in the background, while photo points 20 and 42 show the north and south sides of the creek and help us compare vegetation conditions along the riverbank. Across the photos, vegetation appears much greener in April 2026 than in October 2025 at photo point 18, while October 2025 appears more gray-brown, likely reflecting drier late-season conditions. At photo points 20 and 42, April 2025 appears greener than April 2026, while October 2025 shows gray-brown vegetation and a larger area of accumulated sand along the riverbank. These seasonal and annual differences suggest that vegetation cover at the marsh edge can shift noticeably through time, likely reflecting changes in seasonal growth, water availability, sediment movement, and creek/riverbank conditions.
 
 # Reports or posters
 
@@ -64,19 +66,20 @@ As a group:
 
 ## Report or poster information
 
-Title:
+Title: North Campus Open Space Restoration Project Monitoring Report: Year 7, December 2024
 
-Authors:
+Authors: ALison Rickard
 
-Year published:
+Year published: 2024
 
-Permalink:
+Permalink: https://escholarship.org/uc/item/7bq618m8
 
-Dataset used (likely):
+Dataset used (likely): The report likely uses long-term NCOS restoration monitoring datasets collected by the Cheadle Center for Biodiversity and Ecological Restoration, including vegetation monitoring data similar to veg.csv and supporting vegetation transect metadata such as vp_veg_metadata.csv.
 
-Key insights:
+Key insights: The Year 7 monitoring report evaluates the progress of the North Campus Open Space restoration project across several habitat types, including wetland, upland, and transitional habitats. The report is useful for understanding how vegetation cover, native plant establishment, non-native cover, and broader habitat development are used as indicators of restoration progress at NCOS. It also provides the larger restoration context for our project, showing that vegetation monitoring is not only a way to describe plant cover, but also a way to track whether restored habitats are developing toward their intended ecological conditions.
 
 Relevance to your study (be specific here with the question you have asked, the figures you've made, the insights you've gained, etc.):
+This report is directly relevant to our project because our study focuses on salt marsh and closely related brackish marsh vegetation at NCOS. Our figures build on the same general monitoring goals by asking which plant species characterize the marsh, how dominant species change through time, and how native and non-native vegetation contribute to habitat identity. While the monitoring report summarizes restoration progress more broadly across NCOS, our project narrows in on species-level vegetation patterns within the salt marsh/brackish marsh habitat and uses the vegetation dataset to explore those patterns more closely.
 
 # Annotated bibliography
 
@@ -108,63 +111,63 @@ As a group:
 
 ### Paper 1
 
-Title:
+Title: Restoration of urban salt marshes: Lessons from southern California
 
-Authors:
+Authors: John C. Callaway and Joy B. Zedler
 
-Main findings (2-4 sentences):
+Main findings (2-4 sentences): Callaway and Zedler describe several major challenges for restoring urban salt marshes in southern California, including habitat isolation, fragmentation, exotic species, loss of transitional upland habitat, and altered hydrologic and sediment dynamics [@callaway_zedler_2004]. They emphasize that urban salt marshes are strongly shaped by surrounding land use, watershed conditions, and the ability of native plants to colonize restored sites. The paper also argues that low species richness can slow the development of important marsh functions such as biomass accumulation and nitrogen retention.
 
-Relevance to study (2-4 sentences):
+Relevance to study (2-4 sentences): This paper is highly relevant because NCOS is a restored coastal wetland embedded within an urban and university landscape. Our project asks which species characterize salt marsh habitat at NCOS and how native and non-native vegetation contribute to marsh identity. Callaway and Zedler help frame why species composition matters in restored urban salt marshes, especially when exotic species, hydrologic modification, and habitat fragmentation can influence restoration trajectories [@callaway_zedler_2004].
 
 ### Paper 2
 
-Title:
+Title: Large-scale field studies inform adaptive management of California wetland restoration
 
-Authors:
+Authors: Kathryn M. Beheshti, Stephen C. Schroeter, Andres A. Deza, Daniel C. Reed, Rachel S. Smith, and Henry M. Page
 
-Main findings (2-4 sentences):
+Main findings (2-4 sentences): Beheshti et al. studied vegetation establishment in a restored southern California salt marsh and found that plant cover was strongly influenced by physical stressors such as soil salinity, soil moisture, elevation, and soil compaction [@beheshti_2023]. Their field experiments showed that restoration outcomes can vary by marsh zone and by plant species, with Salicornia pacifica naturally recruiting and increasing cover in some areas. The study highlights how adaptive management and field experiments can help identify the factors that limit vegetation establishment in restored wetlands.
 
-Relevance to study (2-4 sentences):
+Relevance to study (2-4 sentences): This paper supports our use of percent cover as an important restoration indicator because it shows that vegetation establishment is central to wetland restoration success. It also helps us interpret changes in dominant plant cover at NCOS as potential signals of restoration trajectory rather than just visual patterns. Since our project examines mean percent cover through time, Beheshti et al. gives us a strong scientific basis for connecting vegetation cover to soil conditions, hydrology, and restoration management [@beheshti_2023].
 
 ### Paper 3
 
-Title:
+Title: Relationship between topographic heterogeneity and vegetation patterns in a Californian salt marsh
 
-Authors:
+Authors: H. Morzaria-Luna, J. C. Callaway, G. Sullivan, and J. B. Zedler
 
-Main findings (2-4 sentences):
+Main findings (2-4 sentences): Morzaria-Luna et al. examined how salt marsh vegetation richness, cover, and assemblage composition differed between areas with and without tidal creeks [@morzaria_luna_2004]. They found that species richness, frequency, cover, and assemblages varied with topographic heterogeneity, especially the presence of tidal creeks. The authors concluded that restoration of Californian salt marshes should target multi-species assemblages rather than monocultures.
 
-Relevance to study (2-4 sentences):
+Relevance to study (2-4 sentences): This paper connects directly to our question about which species characterize salt marsh habitat at NCOS. Our project uses species ranking and dominant-species visualizations to describe the plant assemblage of the restored marsh, and this paper supports the idea that marsh identity is shaped by multiple species rather than a single dominant plant. It also helps explain why creek edges, marsh plains, and topographic variation may influence the vegetation patterns we see in our figures [@morzaria_luna_2004].
 
 ### Paper 4
 
-Title:
+Title: Causes and consequences of invasive plants in wetlands: Opportunities, opportunists, and outcomes
 
-Authors:
+Authors: Joy B. Zedler and Suzanne Kercher
 
-Main findings (2-4 sentences):
+Main findings (2-4 sentences): Zedler and Kercher argue that wetlands are especially vulnerable to plant invasions because they often act as landscape sinks, accumulating water, nutrients, sediment, debris, and other materials that can create opportunities for opportunistic species [@zedler_kercher_2004]. They explain that invasive wetland plants can form monotypes, alter habitat structure, reduce biodiversity, change nutrient cycling, and modify food webs. The paper also emphasizes that invasion is often linked to disturbance, propagule pressure, hydrologic alteration, and resource availability.
 
-Relevance to study (2-4 sentences):
+Relevance to study (2-4 sentences): This paper is important for our native/non-native and dominant non-native species figures. It helps explain why non-native cover matters ecologically and why we should look beyond total vegetation cover to ask which species are contributing to habitat structure. In our project, tracking non-native species through time helps us interpret whether restored salt marsh habitat is becoming more strongly characterized by native halophytes or whether non-native plants are contributing substantially to vegetation cover [@zedler_kercher_2004].
 
 ### Paper 5
 
-Title:
+Title: Carpinteria Salt Marsh: Environment, History, and Botanical Resources of a Southern California Estuary
 
-Authors:
+Authors: Wayne R. Ferren, Jr.
 
-Main findings (2-4 sentences):
+Main findings (2-4 sentences): Ferren provides a detailed botanical and environmental account of Carpinteria Salt Marsh, including its physical setting, history, wetland vegetation types, plant inventory, and disturbance history [@ferren_1985]. The report describes southern California estuaries as dynamic systems shaped by salinity, freshwater runoff, seasonal rainfall, tidal circulation, sedimentation, and historical land use. It also documents many characteristic salt marsh plants and wetland vegetation communities in the Santa Barbara region.
 
-Relevance to study (2-4 sentences):
+Relevance to study (2-4 sentences): This source is valuable because it gives our project a local botanical reference point from a nearby Santa Barbara County salt marsh. Although our study focuses on NCOS, Ferren helps us understand the broader regional context for southern California salt marsh vegetation and the environmental pressures that shape these communities. It is especially useful for interpreting characteristic marsh plants such as pickleweed, saltgrass, saltbushes, and other halophytes within a local coastal wetland framework [@ferren_1985].
 
 ### Paper 6
 
-Title:
+Title: Monitoring vegetation dynamics at a tidal marsh restoration site: Integrating field methods, remote sensing and modeling
 
-Authors:
+Authors: Alexandra S. Thomsen, Johannes Krause, Monica Appiano, Karen E. Tanner, Charlie Endris, John Haskins, Elizabeth Watson, Andrea Woolfolk, Monique C. Fountain, and Kerstin Wasson
 
-Main findings (2-4 sentences):
+Main findings (2-4 sentences): Thomsen et al. monitored vegetation colonization at a restored tidal marsh using field surveys, UAS imagery, and modeling [@thomsen_2021]. They found that vegetation establishment was strongly influenced by elevation, inundation frequency, salinity stress, and soil conditions. The paper also highlights that vegetation cover is commonly used as a restoration monitoring metric because it reflects the establishment of foundation species that support broader marsh functions.
 
-Relevance to study (2-4 sentences):
+Relevance to study (2-4 sentences): This paper is relevant because our project also uses vegetation cover to evaluate restoration patterns through time. Although we are working with field-based vegetation monitoring data rather than UAS imagery, Thomsen et al. supports the idea that vegetation monitoring can reveal where restoration is progressing and where environmental conditions may limit plant colonization. It also connects well to our descriptive figures, which use percent cover to compare dominant species, native and non-native vegetation, and total vegetation cover across survey years [@thomsen_2021].
 
 ### Paper 7
 
