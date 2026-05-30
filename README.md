@@ -9,6 +9,7 @@ documentation, and report analysis focused on salt marsh and brackish
 marsh vegetation patterns across survey years.
 
 ## Data and file information
+```
 ├── README.md
 ├── literature-template.Rproj
 ├── documents
@@ -42,7 +43,7 @@ marsh vegetation patterns across survey years.
 ├── NCOS-2016_restoration-plan.pdf
 ├── NCOS-2019_year-1-monitoring-report.pdf
 └── NCOS-2024_year-7-monitoring-report.pdf
-
+```
 ## Rendered output
 
 The rendered PDF output can be found 
