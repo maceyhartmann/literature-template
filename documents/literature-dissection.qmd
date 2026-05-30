@@ -222,13 +222,13 @@ Relevance to study (2-4 sentences): This paper is directly relevant to our proje
 
 ### Paper 12
 
-Title:
+Title: Dominance of native grasses leads to community convergence in wetland restoration
 
-Authors:
+Authors: Laurel Pfeifer-Meister, Bitty A. Roy, Bart R. Johnson, Jeff Krueger & Scott D. Bridgham 
 
-Main findings (2-4 sentences):
+Main findings (2-4 sentences): This study conducted a three-year replicated field experiment in Oregon wetland prairie restoration, finding that plant community composition converged across different site preparation treatments over time as annual exotic species declined and native perennial grasses increased in dominance [@Pfeifer-Meister_2012]. Community composition became progressively more similar to reference wetlands each year, but species richness and diversity declined as dominant natives outcompeted other species, revealing a trade-off between native cover and biodiversity. The authors argue that managing successional trajectories actively is necessary to achieve both high native dominance and diversity in restored wetlands.
 
-Relevance to study (2-4 sentences):
+Relevance to study (2-4 sentences): This paper is relevant because our project tracks how dominant species cover changes across survey years at NCOS, and Gonzalves et al. provide a broader conceptual framework for interpreting that trajectory, specifically, that increasing native dominance over time is a predictable and meaningful signal of restoration progress [@Pfeifer-Meister_2012]. It also helps contextualize why a few dominant species like Salicornia pacifica may contribute a large and growing share of total vegetation cover without that being cause for concern. The study reinforces that tracking which species are dominant, and whether those species are native, is a more informative restoration metric than total cover alone.
 
 # References
 
