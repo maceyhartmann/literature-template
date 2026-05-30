@@ -1,36 +1,49 @@
-# Literature dissection 
+# ENVS 193DD Literature Dissection
 
-Spring 2026
+## General information
 
-# Objective
+This repository contains the literature dissection document for the 
+ENVS 193DD salt marsh vegetation project at North Campus Open Space 
+(NCOS). The document includes an annotated bibliography, photo 
+documentation, and report analysis focused on salt marsh and brackish 
+marsh vegetation patterns across survey years.
 
-In class, you will explore the data documentation, posters, reports, papers, and other materials from the Cheadle Center.
+## Data and file information
+├── README.md
+├── literature-template.Rproj
+├── documents
+│   ├── literature-dissection.qmd   # Main literature dissection document
+│   ├── literature-dissection.pdf   # Rendered PDF output
+│   ├── references.bib              # BibTeX reference list
+│   ├── ecology.csl                 # Citation style file
+│   └── template.pdf                # Assignment template
+├── references-ejmo                 # Erick's reference PDFs
+│   ├── Beheshti-2023_CA-wetland-restoration.pdf
+│   ├── Callaway 2004; restoration of urban salt marshes.pdf
+│   ├── Ferren-1985_Carpinteria-salt-marsh.pdf
+│   ├── Mellichamp-2023_protecting-upper-devereux-slough.pdf
+│   ├── Morzaria-Luna 2004; relationship between topography.pdf
+│   ├── Sanderson 2001; empirical model of salt marsh.pdf
+│   ├── Stratton-2021_Ventura-milk-vetch.pdf
+│   ├── Thomsen 2021; monitoring vegetation dynamics.pdf
+│   ├── Tijuana-publications.pdf
+│   ├── Wilhelm-Safian-2023_Ventura-milk-vetch.pdf
+│   └── Zedler 2004; causes and consequences of invasive plants.pdf
+├── references-mhart                # Macey's reference PDFs
+│   ├── Mellichamp-2023_protecting-upper-devereux-slough.pdf
+│   ├── Pfeifer-Meister-et-al.-2012-Plant-Ecology.pdf
+│   ├── Sanderson 2001; empirical model of salt marsh.pdf
+│   ├── Stratton-2021_Ventura-milk-vetch.pdf
+│   ├── The_influence_of_rainfall_variability_on_salt_marsh.pdf
+│   └── Wilhelm-Safian-2023_Ventura-milk-vetch.pdf
+└── references-ncos                 # NCOS background documents
+├── NCOS_coastal-salt-marsh.pdf
+├── NCOS_planning.pdf
+├── NCOS-2016_restoration-plan.pdf
+├── NCOS-2019_year-1-monitoring-report.pdf
+└── NCOS-2024_year-7-monitoring-report.pdf
 
-You will also find published papers that are relevant to your final project.
+## Rendered output
 
-After completing your literature dissection as a group, you will have been able to:
-
-1. describe any seasonal or annual shifts in environmental conditions at a sampling site that is relevant to your project
-2. identify datasets or surveys used in a poster/report/paper from the Cheadle Center
-3. articulate the connection between your study and other study systems or questions using peer-reviewed articles
-4. practice using citations in Quarto
-
-Your literature dissection will be evaluated on:
-
-- your clear and detailed description of seasonal or annual changes in the **Photo documentation** section
-- the correct identification of a report or poster that is relevant to your project along with the dataset that likely underlies that report or poster in the **Reports or posters** section
-- the detail and connection you make between peer-reviewed articles and your project in the **Annotated bibliography section**
-- the presentation (i.e. formatting) of your final document
-
-# What you will turn in on Friday the 29th
-
-You will turn in a **link to the GitHub repo you created using this repo as a template**.
-
-By the time you turn in your assignment, you should have edited this README (i.e. deleted all the existing text) to include the sections that you should have in a README.
-
-Additionally, you should have edited the `template.qmd` such that all directions are taken out. The only content should be headers and the information you are expected to provide.
-
-# Databases to be familiar with
-
-- eScholarship, specifically for the [Cheadle Center](https://escholarship.org/uc/ccber)
-- Google Scholar
+The rendered PDF output can be found 
+[here](documents/literature-dissection.pdf).

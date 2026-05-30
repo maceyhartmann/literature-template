@@ -10,21 +10,6 @@ bibliography: references.bib
 csl: ecology.csl
 ---
 
-# Photo documentation
-
-Individually:
-
-1.  Find the document titled "Data Description: Photo Documentation of the North Campus Open Space Restoration Project".
-2.  Read about the photo documentation process.
-3.  Find 1-3 photo points relevant to your study using the ArcGIS web map.
-
-As a group:
-
-4.  Discuss which photo point to focus on based on its relevance to your study question or context.
-5.  Decide on a photo point.
-6.  Find 2-4 photos at that photo point to represent seasonal changes within a water year.
-7.  In the table below, fill in the information for each photo at the photo point.
-
 ## Table
 
 | Photo point number | Date of photo | Season | Direction of photo | Link to photo |
@@ -39,30 +24,9 @@ As a group:
 | 42 | October 2025 | Fall | S | [Photo 42 October 2025](https://ucsb.app.box.com/s/l1n165rti3jgivcmwjl499px0hsy93jx/file/2055757539636) |
 | 42 | April 2025 | Spring | S | [Photo 42 April 2025](https://ucsb.app.box.com/s/l1n165rti3jgivcmwjl499px0hsy93jx/file/2055757539636) |
 
-
-8.  Describe in 5-7 sentences total:
-
--   which water year you chose to examine
--   how that water year is relevant to your study
--   which photo point you chose to examine
--   how that photo point is relevant to your study
--   what changes you see in vegetation, animals, environmental characteristics from the photos you chose.
-
 We chose to examine water year 2026 because it overlaps with the most recent vegetation monitoring period and helps us visually compare seasonal changes in salt marsh and brackish marsh vegetation at NCOS. This water year is relevant to our study because our project focuses on how salt marsh vegetation cover and plant community identity change across survey years, and the photo documentation gives us a visual reference for interpreting those patterns. We focused on photo points 18, 20, and 42 because together they show different views of the marsh plain, creek edge, riverbank, and surrounding salt marsh vegetation. Photo point 18 provides a broad view of the flat salt marsh vegetation, including sandy patches and a creek in the background, while photo points 20 and 42 show the north and south sides of the creek and help us compare vegetation conditions along the riverbank. Across the photos, vegetation appears much greener in April 2026 than in October 2025 at photo point 18, while October 2025 appears more gray-brown, likely reflecting drier late-season conditions. At photo points 20 and 42, April 2025 appears greener than April 2026, while October 2025 shows gray-brown vegetation and a larger area of accumulated sand along the riverbank. These seasonal and annual differences suggest that vegetation cover at the marsh edge can shift noticeably through time, likely reflecting changes in seasonal growth, water availability, sediment movement, and creek/riverbank conditions.
 
 # Reports or posters
-
-Individually:
-
-1.  Navigate to a. the Posters section or b. the Reports section of the collection.
-2.  Find the poster(s) or report(s) related to your project.
-
-As a group:
-
-3.  Discuss which poster or report to focus on based on its relevance to your study question or context. **Note that you only need one of either type.**
-4.  Read the poster or report.
-5.  Discuss the key insights.
-6.  Provide the information in the space below. For "Key insights" and "Relevance to your study", respond in 3-5 sentences.
 
 ## Report or poster information
 
