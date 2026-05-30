@@ -3,10 +3,8 @@
 ## General information
 
 This repository contains the literature dissection document for the 
-ENVS 193DD salt marsh vegetation project at North Campus Open Space 
-(NCOS). The document includes an annotated bibliography, photo 
-documentation, and report analysis focused on salt marsh and brackish 
-marsh vegetation patterns across survey years.
+ENVS 193DD Final Project. The document includes an annotated bibliography, photo 
+documentation, and paper analysis.
 
 ## Data and file information
 ```
