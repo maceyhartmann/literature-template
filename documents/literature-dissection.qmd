@@ -170,43 +170,55 @@ Relevance to study (2-4 sentences): This paper is relevant because our project a
 
 ### Paper 7
 
-Title:
+Title: UC Santa Barbara's Role in Protecting the Upper Devereux Slough
 
-Authors:
+Authors: Duncan A. Mellichamp
 
-Main findings (2-4 sentences):
+Main findings (2-4 sentences): Mellichamp provides a historical account of the planning, acquisition, and restoration of the North Campus Open Space, tracing the project from the filling of the upper Devereux Slough to construct the Ocean Meadows Golf Course in the 1960s through its eventual transfer to UCSB and restoration by the Cheadle Center [@mellichamp_2023]. The report describes a multi-decade collaborative planning effort among UCSB, Santa Barbara County, the City of Goleta, and The Trust for Public Land, which ultimately secured approximately $18 million in public funding for wetland reconstruction and habitat restoration. Mellichamp emphasizes that the restoration was intended to undo the ecological damage caused by converting the wetland to a golf course, returning the site to a complex of habitats including wetlands, uplands, and transitional zones that support special-status plants and animals.
 
-Relevance to study (2-4 sentences):
+Relevance to study (2-4 sentences): This source provides the foundational historical and institutional context for our project by documenting why and how the salt marsh habitat we are analyzing came to exist at NCOS [@mellichamp_2023]. Understanding that the site was actively restored from a filled wetland helps us interpret the vegetation patterns in our figures, especially the dominant native halophytes we identify, such as Salicornia pacifica and Distichlis spicata, represent the return of coastal salt marsh community structure to a landscape that was essentially removed in the 1960s. 
 
 ### Paper 8
 
-Title:
+Title: A simple empirical model of salt marsh plant spatial
+distributions with respect to a tidal channel network
 
-Authors:
+Authors: Eric W. Sanderson, Theodore C. Foin, and Susan L. Ustin
 
-Main findings (2-4 sentences):
+Main findings (2-4 sentences): Sanderson et al. developed a GIS-based model using a cumulative inverse squared distance function to quantify tidal channel influence at each point in a California salt marsh, finding that this single spatial factor could predict the distributions of both dominant and minor plant species across the marsh [@sanderson_2001]. The model showed that Salicornia dominated areas far from large channels, while species such as Distichlis, Frankenia, and Jaumea were associated with intermediate-sized channels, and Spartina occupied the zone of highest channel influence closest to the river. These results emphasize that tidal channel networks are a primary structural force shaping salt marsh plant community composition and spatial zonation.
 
-Relevance to study (2-4 sentences):
+Relevance to study (2-4 sentences): This paper is relevant to our project because it demonstrates that the same species we identify as dominant at NCOS are characteristically zoned with respect to tidal hydrology in California salt marshes [@sanderson_2001]. While our project does not model spatial distributions, Sanderson et al. shows why these species appear where they do, which helps us interpret shifts in dominant species cover at NCOS as potential signals of changing hydrologic conditions or restoration trajectory. The study also supports our focus on species identity rather than total cover alone, since different species occupy distinct positions along the tidal gradient and contribute differently to marsh structure.
+
 
 ### Paper 9
 
-Title:
+Title: Status of Ventura marsh milk-vetch at North Campus Open Space
 
-Authors:
+Authors: Lisa Stratton, Wayne Chapman, Carlo Calderon
 
-Main findings (2-4 sentences):
+Main findings (2-4 sentences): Stratton et al. report on the outplanting and establishment of Ventura marsh milk-vetch (Astragalus pycnostachyus var. lanosissimus), a federally endangered species, at NCOS, finding that the majority of outplanted seedlings thrived and successfully set seed under ambient conditions when placed on sandy ridges and slopes rather than in swales subject to flooding [@stratton_2021]. Plant performance was strongly tied to microtopography and hydrology: seedlings on ridges and slopes showed significantly greater height, vigor, and seed production compared to those in swales, where 55 percent died following high estuary water levels and sediment inundation. The report also documents successful natural recruitment of more than 2,000 seedlings adjacent to the primary outplanting site by spring 2021, indicating that NCOS can support self-sustaining populations of this rare species under appropriate hydrologic and soil conditions.
 
-Relevance to study (2-4 sentences):
+Relevance to study (2-4 sentences): This report is relevant because it demonstrates how strongly hydrology, soil moisture, and microtopography shape plant establishment and survival at NCOS (the same site where our vegetation monitoring data were collected) [@stratton_2021]. While our project focuses on salt marsh vegetation cover and species composition rather than a single rare species, Stratton et al. reinforce that the patterns we observe in our figures are not just statistical summaries but reflect real ecological processes tied to water availability, flooding regime, and site conditions. The report also adds important context about NCOS as an active restoration site where plant community development is shaped by ongoing management decisions, hydrologic dynamics, and species-specific responses to environmental conditions.
 
 ### Paper 10
 
-Title:
+Title: Ventura Marsh Milk-vetch (Astragalus pycnostachyus var. lanosissimus) 2024 Management and Monitoring Report
 
-Authors:
+Authors: Claire Wilhelm-Safian, Wayne Chapman, and Lisa Stratton
 
-Main findings (2-4 sentences):
+Main findings (2-4 sentences): Wilhelm-Safian et al. report that the Ventura marsh milk-vetch population at NCOS declined substantially in 2024, with adult counts dropping from an estimated 814 to 308 individuals in the main population and total seedling abundance falling sharply across nearly all site zones [@wilhelmsafian_2024]. The report identifies non-native nitrogen-fixing plants, particularly Melilotus indicus and Polypogon monspeliensis, as a growing threat, finding that nitrogen accumulated from milk-vetch's own nitrogen-fixation may be creating a positive feedback loop that benefits invasive weed competitors and degrades the low-nutrient sandy habitat that the milk-vetch requires. Population decline was also linked to two successive wet winters, increased flooding, reduced active management, and natural ecological succession, as bare sandy areas colonized by vegetation progressively reduced available habitat for the species.
 
-Relevance to study (2-4 sentences):
+Relevance to study (2-4 sentences): This report is relevant because it directly documents how non-native plant cover is expanding at NCOS in response to changing soil and hydrologic conditions, providing a site-specific example of the ecological consequences of non-native vegetation accumulation that our project addresses through broader vegetation monitoring [@wilhelmsafian_2024]. The report reinforces our focus on tracking non-native species through time. It also contextualizes the NCOS landscape as a dynamic, actively managed site where vegetation patterns are shaped by ongoing disturbance, succession, management interventions, and interannual rainfall variability.
+
+### Paper 11
+
+Title: The influence of rainfall variability on the species composition of a northern California salt marsh plant assemblage
+
+Authors: Susan K. Allison
+
+Main findings (2-4 sentences): Allison examined how interannual variation in rainfall affected plant species composition in a northern California salt marsh over four years, finding that in drier years Salicornia virginica increased its dominance while higher-rainfall years allowed less salt-tolerant species to expand their cover [@allison_1992]. The study showed that species composition was relatively stable across the monitoring period despite year-to-year climatic variability, but that dominant species shifted in relative abundance in response to rainfall and associated changes in soil salinity and moisture. These findings suggest that even modest interannual climate variation can create detectable fluctuations in which species contribute most to marsh vegetation cover.
+
+Relevance to study (2-4 sentences): This paper is directly relevant to our project because our figures track mean percent cover of dominant species across survey years spanning variable rainfall conditions in southern California [@allison_1992]. Allison's findings help us interpret interannual variation in our dominant-species figure not solely as a restoration signal but also as a potential climate-driven response, particularly for Salicornia pacifica, which is expected to increase cover in drier years. The paper also supports our rationale for averaging across transects and years rather than treating any single year's vegetation pattern as definitive.
 
 ### Paper 12
 
